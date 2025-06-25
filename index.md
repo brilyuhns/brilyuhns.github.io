@@ -1,6 +1,6 @@
 Divya Kunnath  
 Singapore · +65 9354 9740 ·  
-kunnathdivyal@gmail.com · [linkedin.com/in/brilyuhns](https://www.linkedin.com/in/brilyuhns) · (github.com/brilyuhns)[https://github.com/brilyuhns]
+kunnathdivyal@gmail.com · [linkedin.com/in/brilyuhns](https://www.linkedin.com/in/brilyuhns) · [github.com/brilyuhns](https://github.com/brilyuhns)
 
 ## SUMMARY
 
