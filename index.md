@@ -38,7 +38,7 @@ Private Capital Market Platform
 **Scope**  
 - Engineering leadership for 6 applications across 4 regulated capital-markets products (exchange, brokerage,  
   custody, investor onboarding).  
-- Team size: 12 engineers across Singapore, India, and Indonesia.  
+- Team size: About 20 across Singapore, India, and Indonesia.  
 - No CTO; direct alignment with Head of Product and business leads.  
 - Ownership of architecture, platform delivery, developer productivity, and audit readiness.  
 - Cross-functional collaboration with Product, Finance, and Compliance.  
