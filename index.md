@@ -19,7 +19,7 @@ Delivered results with lean squads; scaled teams to 30+ engineers when require
 processes that ensure accountability and succession.
 
 **Security‑First, Regulatory Compliance**  
-Experience working with integration‑heavy, revenue‑critical platforms for capital‑markets, loyalty and banking clients.
+Near‑zero critical VAPT findings; deep familiarity with MAS TRM and equivalent regulations across Singapore, Malaysia and other SEA jurisdictions.
 
 **DevOps / SRE Aptitude**  
 CI/CD pipelines, Containerisation, IAC, Cloud cost governance, BCP/DR playbooks, incident command, SLA/SLO  
