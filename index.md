@@ -5,8 +5,8 @@ kunnathdivyal@gmail.com · [linkedin.com/in/brilyuhns](https://www.linkedin.com/
 ## SUMMARY
 
 - Engineering leader with 14 years of software industry experience, growing from individual contributor to Head of Product & Engineering. 
-- Over the past 7+ years, focused on building and scaling regulated, integration-heavy platforms across startups and growth-stage companies. 
-- Currently working as Head of Engineering at a fintech organisation supporting multiple regulated products.
+- Over the past 7+ years, focused on building and scaling regulated, integration-heavy platforms. 
+- Currently working as Head of Engineering at a fintech organisation supporting multiple applications across 4 regulated products.
 - Proven track record of leading cross-functional teams, driving strategic initiatives, and shaping high-performing engineering cultures. 
 - Skilled at stakeholder alignment, team development, and enhancing operational efficiency across distributed teams.
 
