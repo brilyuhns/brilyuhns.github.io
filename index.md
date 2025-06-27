@@ -39,9 +39,8 @@ Private Capital Market Platform
 - Engineering leadership for 6 applications across 4 regulated capital-markets products (exchange, brokerage,  
   custody, investor onboarding).  
 - Team size: About 20 across Singapore, India, and Indonesia.  
-- No CTO; direct alignment with Head of Product and business leads.  
+- No CTO; Direct alignment and cross-functional collaboration with Product, Finance, and Compliance and other business leads.  
 - Ownership of architecture, platform delivery, developer productivity, and audit readiness.  
-- Cross-functional collaboration with Product, Finance, and Compliance.  
 - Coverage of MAS TRM-aligned DR planning, cloud cost governance, CI/CD automation, and internal AI  
   tooling.
 
@@ -136,9 +135,10 @@ Restaurant SaaS Platform
 ## TECHNICAL TOOLBOX
 
 **Languages**: Ruby, TypeScript/JavaScript, PHP, Java (Android)  
-**Cloud & IaC**: AWS, GCP, Terraform, Docker, GitHub Actions, CircleCI  
+**Infra/Devops**: AWS, GCP, Terraform, Docker, GitHub Actions, CircleCI  
 **Datastores**: MySQL, PostgreSQL, Redis, ElasticSearch, Big Query  
 **Monitoring and Security**: Datadog, Sentry, Vault, Pagerduty, Kibana, Prometheus, Grafana  
+**AI Toolbox**: Cursor, AI Chat Bots, Local Models, API Integrations
 
 ## EDUCATION
 
