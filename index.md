@@ -4,7 +4,7 @@ title: "Divya Kunnath - Engineering Leader"
 description: "Engineering leader with 14+ years of software industry experience with companies of different sizes. Experience in regulated fintech platforms, team leadership, and technical architecture. Currently Head of Engineering at Alta."
 keywords: "engineering leader, head of engineering, fintech, SaaS, Singapore, capital markets, team leadership, technical architecture, DevOps, Ruby, TypeScript, AWS"
 author: "Divya Kunnath"
-image: "/assets/images/divya-kunnath.jpg"
+image: "/assets/images/divya-kunnath.jpeg"
 og_type: "profile"
 ---
 
