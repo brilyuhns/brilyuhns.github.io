@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Divya Kunnath - Engineering Leader"
+description: "Engineering leader with 14+ years of software industry experience with companies of different sizes. Experience in regulated fintech platforms, team leadership, and technical architecture. Currently Head of Engineering at Alta."
+keywords: "engineering leader, head of engineering, fintech, SaaS, Singapore, capital markets, team leadership, technical architecture, DevOps, Ruby, TypeScript, AWS"
+author: "Divya Kunnath"
+image: "/assets/images/divya-kunnath.jpg"
+og_type: "profile"
+---
+
 # Divya Kunnath  
 Singapore · +65 9354 9740 ·  
 kunnathdivyal@gmail.com · [linkedin.com/in/brilyuhns](https://www.linkedin.com/in/brilyuhns) · [github.com/brilyuhns](https://github.com/brilyuhns)

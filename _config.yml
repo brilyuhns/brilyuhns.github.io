@@ -1,0 +1,56 @@
+title: Divya Kunnath - Engineering Leader
+description: "Engineering leader with 14+ years of software industry experience with companies of different sizes. Experience in regulated fintech platforms, team leadership, and technical architecture. Currently Head of Engineering at Alta."
+author: Divya Kunnath
+email: kunnathdivyal@gmail.com
+url: https://brilyuhns.github.io
+baseurl: ""
+
+# SEO Settings
+seo:
+  title: "Divya Kunnath - Head of Engineering | Fintech & SaaS Leader"
+  description: "Engineering leader with 14+ years of software industry experience with companies of different sizes. Experience in regulated fintech platforms, team leadership, and technical architecture. Currently Head of Engineering at Alta."
+  keywords: "engineering leader, head of engineering, fintech, SaaS, Singapore, capital markets, team leadership, technical architecture"
+  author: "Divya Kunnath"
+  image: "/assets/images/divya-kunnath.png"
+  twitter:
+    username: "@brilyuhns"
+    card: "summary_large_image"
+  og:
+    type: "profile"
+    locale: "en_US"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/ 

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brilyuhns.github.io/sitemap.xml 
