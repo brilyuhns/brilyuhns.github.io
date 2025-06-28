@@ -5,38 +5,91 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- SEO Meta Tags -->
-  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description"
-    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.seo.keywords }}{% endif %}">
-  <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
+  <!-- Jekyll SEO Tag -->
+  {% seo %}
 
-  <!-- Open Graph Meta Tags -->
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:description"
-    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:type" content="{% if page.og_type %}{{ page.og_type }}{% else %}profile{% endif %}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:image"
-    content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}{{ site.seo.image }}{% endif %}">
-  <meta property="og:locale" content="en_US">
-  <meta property="og:site_name" content="{{ site.title }}">
+  <!-- GitHub Pages Default CSS -->
+  <style>
+    /* GitHub Pages Default Markdown Styling */
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      color: #24292e;
+      background-color: #ffffff;
+      margin: 0;
+      padding: 0;
+    }
 
-  <!-- Twitter Card Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="{{ site.seo.twitter.username }}">
-  <meta name="twitter:creator" content="{{ site.seo.twitter.username }}">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description"
-    content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image"
-    content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}{{ site.seo.image }}{% endif %}">
+    .markdown-body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 45px;
+    }
 
-  <!-- Additional SEO Meta Tags -->
-  <meta name="robots" content="index, follow">
-  <meta name="googlebot" content="index, follow">
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    .markdown-body h1 {
+      padding-bottom: 0.3em;
+      font-size: 2em;
+      border-bottom: 1px solid #eaecef;
+      margin-top: 24px;
+      margin-bottom: 16px;
+      font-weight: 600;
+      line-height: 1.25;
+    }
+
+    .markdown-body h2 {
+      padding-bottom: 0.3em;
+      font-size: 1.5em;
+      border-bottom: 1px solid #eaecef;
+      margin-top: 24px;
+      margin-bottom: 16px;
+      font-weight: 600;
+      line-height: 1.25;
+    }
+
+    .markdown-body h3 {
+      font-size: 1.25em;
+      margin-top: 24px;
+      margin-bottom: 16px;
+      font-weight: 600;
+      line-height: 1.25;
+    }
+
+    .markdown-body p {
+      margin-top: 0;
+      margin-bottom: 16px;
+    }
+
+    .markdown-body a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+
+    .markdown-body a:hover {
+      text-decoration: underline;
+    }
+
+    .markdown-body strong {
+      font-weight: 600;
+    }
+
+    .markdown-body ul {
+      margin-top: 0;
+      margin-bottom: 16px;
+      padding-left: 2em;
+    }
+
+    .markdown-body li {
+      margin-top: 0.25em;
+    }
+
+    @media (max-width: 767px) {
+      .markdown-body {
+        padding: 15px;
+      }
+    }
+  </style>
 
   <!-- Profile Schema.org Structured Data -->
   <script type="application/ld+json">
@@ -82,87 +135,12 @@
         }
     }
     </script>
-
-  <!-- Styles -->
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      color: #333;
-    }
-
-    h1 {
-      color: #2c3e50;
-      border-bottom: 2px solid #3498db;
-      padding-bottom: 10px;
-    }
-
-    h2 {
-      color: #34495e;
-      margin-top: 30px;
-    }
-
-    h3 {
-      color: #7f8c8d;
-    }
-
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .contact-info {
-      background: #f8f9fa;
-      padding: 15px;
-      border-radius: 5px;
-      margin-bottom: 20px;
-    }
-
-    .experience-item {
-      margin-bottom: 25px;
-    }
-
-    .company {
-      font-weight: bold;
-      color: #2c3e50;
-    }
-
-    .date {
-      color: #7f8c8d;
-      font-style: italic;
-    }
-
-    .skills {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      margin: 10px 0;
-    }
-
-    .skill-category {
-      background: #ecf0f1;
-      padding: 5px 10px;
-      border-radius: 15px;
-      font-size: 0.9em;
-    }
-  </style>
 </head>
 
 <body>
-  {{ content }}
-
-  <!-- Footer -->
-  <footer
-    style="margin-top: 50px; padding-top: 20px; border-top: 1px solid #ecf0f1; text-align: center; color: #7f8c8d;">
-    <p>© 2024 Divya Kunnath. All rights reserved.</p>
-  </footer>
+  <div class="container-lg px-3 my-5 markdown-body">
+    {{ content }}
+  </div>
 </body>
 
 </html>
