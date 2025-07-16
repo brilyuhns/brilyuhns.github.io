@@ -16,6 +16,7 @@ kunnathdivyal@gmail.com · [linkedin.com/in/brilyuhns](https://www.linkedin.com/
 
 - Engineering leader with 14 years of software industry experience, growing from individual contributor to Head of Product & Engineering. 
 - Over the past 7+ years, focused on building and scaling regulated, integration-heavy platforms. 
+- Fintech professional with direct exposure to blockchain-based asset tokenisation and digital custody.
 - Currently working as Head of Engineering at a fintech organisation supporting multiple applications across 4 regulated products.
 - Proven track record of leading cross-functional teams, driving strategic initiatives, and shaping high-performing engineering cultures. 
 - Skilled at stakeholder alignment, team development, and enhancing operational efficiency across distributed teams.
@@ -28,6 +29,9 @@ kunnathdivyal@gmail.com · [linkedin.com/in/brilyuhns](https://www.linkedin.com/
 **Technical & People Leadership**  
 Delivered results with lean squads; scaled teams to 30+ engineers when required; groomed new leads and embedded  
 processes that ensure accountability and succession.
+
+** Blockchain Expertise**
+Delivered blockchain-powered fund tokenisation and digital-asset custody solutions, supporting issuance and secondary trading of tokenised private credit and alternative assets.
 
 **Security‑First, Regulatory Compliance**  
 Deep familiarity with MAS TRM and equivalent regulations across Singapore, Malaysia and other SEA jurisdictions.
@@ -59,6 +63,7 @@ Private Capital Market Platform
 - Delivered key features including CMS for managing the brokerage, full exchange rewrite, order matching  
   engine, brokerage-exchange-custody integrations.  
 - Launched multiple PMaaS clients from a single, configurable codebase.  
+- Supported the design and rewrite of the digital-asset custody platform, an end-to-end to solution —from wallet architecture to settlement workflows—aligned with MAS TRM guidelines for secure storage of tokenised assets.
 - Collaborated on group wide Technology Risk Manual, Incident Response Policy, Disaster Recovery playbook  
   and executed multi-app drills, aligning with MAS guidelines.  
 - Mentored engineers into leadership; introduced rotational QA and documentation, reducing dependencies and  
