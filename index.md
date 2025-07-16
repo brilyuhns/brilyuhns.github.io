@@ -15,33 +15,12 @@ kunnathdivyal@gmail.com · [linkedin.com/in/brilyuhns](https://www.linkedin.com/
 ## SUMMARY
 
 - Engineering leader with 14 years of software industry experience, growing from individual contributor to Head of Product & Engineering. 
-- Over the past 7+ years, focused on building and scaling regulated, integration-heavy platforms. 
-- Fintech professional with direct exposure to blockchain-based asset tokenisation and digital custody.
-- Currently working as Head of Engineering at a fintech organisation supporting multiple applications across 4 regulated products.
+- Over the past 7+ years, focused on building and scaling revenue-crritical integration-heavy platforms.
+- 7+ years of fintech experience including direct exposure to blockchain-based asset tokenisation and digital custody.
+- Currently working as Head of Engineering that supports multiple fintech applications across 4 regulated products.
 - Proven track record of leading cross-functional teams, driving strategic initiatives, and shaping high-performing engineering cultures. 
 - Skilled at stakeholder alignment, team development, and enhancing operational efficiency across distributed teams.
-
-## CORE STRENGTHS
-
-**Multi‑Tenant SaaS & B2B Delivery**  
-14 years of shipping integration‑heavy, revenue‑critical platforms for capital‑markets, loyalty and wealth‑data clients.
-
-**Technical & People Leadership**  
-Delivered results with lean squads; scaled teams to 30+ engineers when required; groomed new leads and embedded  
-processes that ensure accountability and succession.
-
-**Blockchain Expertise**
-Delivered blockchain-powered fund tokenisation and digital-asset custody solutions, supporting issuance and secondary trading of tokenised private credit and alternative assets.
-
-**Security‑First, Regulatory Compliance**  
-Deep familiarity with MAS TRM and equivalent regulations across Singapore, Malaysia and other SEA jurisdictions.
-
-**DevOps / SRE Aptitude**  
-CI/CD pipelines, Containerisation, IAC, Cloud cost governance, BCP/DR playbooks, incident command, SLA/SLO  
-stewardship
-
-**Developer Productivity & Distributed Execution**  
-Internal tooling, async rituals, AI adoption driving velocity across global teams.
+- Deep familiarity with MAS TRM and equivalent regulations across Singapore, Malaysia and other SEA jurisdictions.
 
 ## EXPERIENCE
 
