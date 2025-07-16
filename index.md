@@ -30,7 +30,7 @@ kunnathdivyal@gmail.com · [linkedin.com/in/brilyuhns](https://www.linkedin.com/
 Delivered results with lean squads; scaled teams to 30+ engineers when required; groomed new leads and embedded  
 processes that ensure accountability and succession.
 
-** Blockchain Expertise**
+**Blockchain Expertise**
 Delivered blockchain-powered fund tokenisation and digital-asset custody solutions, supporting issuance and secondary trading of tokenised private credit and alternative assets.
 
 **Security‑First, Regulatory Compliance**  
