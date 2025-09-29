@@ -21,28 +21,6 @@ kunnathdivyal@gmail.com · [linkedin.com/in/brilyuhns](https://www.linkedin.com/
 - Proven track record of leading cross-functional teams, driving strategic initiatives, and shaping high-performing engineering cultures. 
 - Skilled at stakeholder alignment, team development, and enhancing operational efficiency across distributed teams.
 
-## CORE STRENGTHS
-
-**Multi‑Tenant SaaS & B2B Delivery**  
-14 years of shipping integration‑heavy, revenue‑critical platforms for capital‑markets, loyalty and wealth‑data clients.
-
-**Technical & People Leadership**  
-Delivered results with lean squads; scaled teams to 30+ engineers when required; groomed new leads and embedded  
-processes that ensure accountability and succession.
-
-**Blockchain Expertise**
-Delivered blockchain-powered fund tokenisation and digital-asset custody solutions, supporting issuance and secondary trading of tokenised private credit and alternative assets.
-
-**Security‑First, Regulatory Compliance**  
-Deep familiarity with MAS TRM and equivalent regulations across Singapore, Malaysia and other SEA jurisdictions.
-
-**DevOps / SRE Aptitude**  
-CI/CD pipelines, Containerisation, IAC, Cloud cost governance, BCP/DR playbooks, incident command, SLA/SLO  
-stewardship
-
-**Developer Productivity & Distributed Execution**  
-Internal tooling, async rituals, AI adoption driving velocity across global teams.
-
 ## EXPERIENCE
 
 ### Head of Engineering  
@@ -63,7 +41,8 @@ Private Capital Market Platform
 - Delivered key features including CMS for managing the brokerage, full exchange rewrite, order matching  
   engine, brokerage-exchange-custody integrations.  
 - Launched multiple PMaaS clients from a single, configurable codebase.  
-- Supported the design and rewrite of the digital-asset custody platform, an end-to-end to solution —from wallet architecture to settlement workflows—aligned with MAS TRM guidelines for secure storage of tokenised assets.
+- Supported the design and rewrite of the digital-asset custody platform, an end-to-end to solution —from wallet architecture
+  to settlement workflows—aligned with MAS TRM guidelines for secure storage of tokenised assets.
 - Collaborated on group wide Technology Risk Manual, Incident Response Policy, Disaster Recovery playbook  
   and executed multi-app drills, aligning with MAS guidelines.  
 - Mentored engineers into leadership; introduced rotational QA and documentation, reducing dependencies and  
